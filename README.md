@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Thishelper
-- 🌱 I’m currently learning Python and Rect
+- 💜 I love hot developer 🔥
+- 🌱 I’m currently learning JAVA
 
 
